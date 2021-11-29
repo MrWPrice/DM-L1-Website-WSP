@@ -77,22 +77,25 @@ li {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
-    height: 700px;
+    background-color: rgb(209, 21, 209);
     display: flex;
-    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
 
 }
 
 /* section 3 youtube video */
-
+img {
+    padding: 10px;
+}
 .section-three {
     background-color: lightcoral;
-    height: 800px;
+    /*height: auto;*/
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
     justify-content: center;
     
 }
