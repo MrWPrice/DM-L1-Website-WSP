@@ -49,60 +49,6 @@ li {
     
 }
 
-.flexgrow-container {
-    display: flex;
-}
-
-.box1 {
-    background-color: skyblue;
-    
-    
-    flex: 1 1 auto;
-
-}
-
-.box2 {
-
-    background-color: lightgreen;
-    
-    height: 200px;
-    flex: 1 1 auto;
-}
-
-.box3 {
-
-    background-color: darkmagenta;
-    
-    height: 200px;
-    flex: 1 1 auto;
-
-}
-
-.box4 {
-    background-color: rgb(34, 129, 167);
-    
-    height: 200px;
-    flex: 1 1 auto;
-
-}
-
-.box5 {
-
-    background-color: rgb(58, 184, 58);
-    
-    height: 200px;
-    flex: 1 1 auto;
-}
-
-.box6 {
-
-    background-color: rgb(219, 38, 219);
-    
-    height: 200px;
-    flex: 1 1 auto;
-
-}
-
 /* section 2 center item */
 
 .section-two {
