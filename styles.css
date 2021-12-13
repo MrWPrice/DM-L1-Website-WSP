@@ -26,6 +26,10 @@ li {
     /*border-radius: 10px;*/
     background-color: rgb(4, 134, 248);
 }
+#type-button{
+    background-image: url(images/Type-Button.png);
+}
+
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
