@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(159, 219, 159);
+    background-color: rgb(255, 255, 255);
 }
 
 /* header sytles */
@@ -97,7 +97,7 @@ iframe {
 /* section 5 media items */
 
 .section-five {
-    background-color: darkslateblue;
+    background-color: rgb(255, 255, 255);
     height: 500px;
     display: flex;
     align-items: center;
