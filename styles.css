@@ -5,7 +5,7 @@ body{
 /* header sytles */
 
 header {
-    background-color: rgb(203, 154, 223);
+    
     padding: 10px 0px 10px 0px;
         
 }
@@ -22,9 +22,9 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 0px 3px;
-    border: 1px solid rgb(205, 50, 97);
-    border-radius: 10px;
-    background-color: aliceblue;
+    border: 1px solid rgb(0, 0, 0);
+    /*border-radius: 10px;*/
+    background-color: rgb(4, 134, 248);
 }
 .container-navigation {
     display: flex;
@@ -92,20 +92,18 @@ iframe {
 
         
 }
-figcaption {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-    text-align: center;
-}
+
 
 /* section 5 media items */
 
 .section-five {
-    background-color: goldenrod;
-    height: 1400px;
-
+    background-color: darkslateblue;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+/*
 .media-container {
     display: flex;
     justify-content: flex-start;
@@ -122,5 +120,5 @@ figcaption {
 .mediacontent {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: navy;
-    font-size: 15px;
+    font-size: 15px;*/
 }
