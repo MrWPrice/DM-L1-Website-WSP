@@ -18,6 +18,8 @@ h1 {
 }
 ul {
     list-style-type: none;
+    color: rgb(13, 189, 66);
+    justify-content: center;
     padding: 5px;
 }
 li {
@@ -88,8 +90,8 @@ iframe {
 /* section 4 embed audio */
 
 .section-four {
-    background-color: darkslateblue;
-    height: 500px;
+    background-color: rgb(10, 69, 177);
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
